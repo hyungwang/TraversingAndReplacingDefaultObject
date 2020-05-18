@@ -1,2 +1,0 @@
-# TraversingAndReplacingDefaultObject
-Created with CodeSandbox
